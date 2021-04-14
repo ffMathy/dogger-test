@@ -1,0 +1,6 @@
+{
+  "assignees": ["kgnfth"],
+  "extends": [
+    "config:base"
+  ]
+}

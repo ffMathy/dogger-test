@@ -1,0 +1,4 @@
+{
+  "dockerComposeYmlFilePaths": ["docker-compose.yml"],
+  "branchReference": "main"
+}
